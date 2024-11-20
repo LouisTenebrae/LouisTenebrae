@@ -9,8 +9,8 @@
 <p>In this github you can find all my projects, so feel free to see my journey and growth.</p>
 <p>Feel free to also contact me or follow me in the following!</p>
   
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lme10112002@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/louis-martínez-echevarría-0x1595)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:lme10112002@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/louis-martínez-echevarría-0x1595)
 </div>
 
 <div align="center">
@@ -18,9 +18,10 @@
 <p>In my case the technologies I feel the most used to, and the most.</p>
 <p>I'm hopeful that as I grow and learn I will be able to add more to the list.</p>
   
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 </div>
 
 <div align="center">
@@ -35,7 +36,7 @@
 
 <div align="center">
 <h2 class="section-heading">  GitHub Stats</h2>
-<p>Peek into my GitHub stats to see how I juggle code, coffee, and collaborations! Dive in to check out the milestones of my digital journey!</p>
+<p>These are my stats as of now. Hope you check out the milestones of my journey, and see my dedication in each commit!</p>
 
 <table align="center" width="100%" height="100%">
     <tr>
